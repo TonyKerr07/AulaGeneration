@@ -14,7 +14,7 @@ programa
 
 		escreva("\nOs elementos nos indices ímpares são: ")
 		//apresentação dos numeros dos indices impares
-		para (inteiro j=1; j<=9; j=j+2){
+		para (inteiro j=0; j<=9; j=j+2){
 			escreva(Leitura[j]," ")
 
 		}
@@ -47,7 +47,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 560; 
+ * @POSICAO-CURSOR = 369; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
